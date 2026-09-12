@@ -1,0 +1,7 @@
+Flag,Rows
+Voltage below 2.8 V,13023
+Voltage above 4.2 V,1343
+Current below -6 A,156305
+Current above 3 A,96922
+Temperature below -20 °C,3441
+Temperature above 40 °C,5988
